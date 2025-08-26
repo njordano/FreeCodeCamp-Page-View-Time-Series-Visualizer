@@ -11,16 +11,16 @@ The goal of this project is to practice data cleaning, grouping, and visualizati
 
 ### 1. Line Plot
 Shows daily page views over time.  
-![Line Plot](images/line_plot.png)  
+![Line Plot](Images/line_plot.png)  
 
 ### 2. Bar Plot
 Displays the average page views per month, grouped by year.  
-![Bar Plot](images/bar_plot.png)  
+![Bar Plot](Images/bar_plot.png)  
 
 ### 3. Box Plots
 - Year-wise Box Plot (Trend): Shows trends in page views by year.  
 - Month-wise Box Plot (Seasonality): Highlights seasonality across months.  
-![Box Plots](images/box_plot.png)  
+![Box Plots](Images/box_plot.png)  
 
 ---
 
